@@ -1,0 +1,2 @@
+# README.mi
+growth mindset
