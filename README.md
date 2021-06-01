@@ -10,12 +10,12 @@
 
 Number  | Link
 ------------- | -------------
-|1|[GrowthMindest](https://anasahmad96.github.io/Reading-notes/GrowthMindest)|
-|2|[lab01a](https://anasahmad96.github.io/Reading-notes/lab01a)|
-|3|[lab01b](https://anasahmad96.github.io/Reading-notes/lab01b)|
-|4|[Read1](https://anasahmad96.github.io/Reading-notes/Read1) |
-|5|[read2](https://anasahmad96.github.io/Reading-notes/read2) |	 
-|6|[README](https://anasahmad96.github.io/Reading-notes/)|
+|1| [GrowthMindest](https://anasahmad96.github.io/Reading-notes/GrowthMindest) |
+|2| [lab01a](https://anasahmad96.github.io/Reading-notes/lab01a) |
+|3| [lab01b](https://anasahmad96.github.io/Reading-notes/lab01b) |
+|4| [Read1](https://anasahmad96.github.io/Reading-notes/Read1) |
+|5| [read2](https://anasahmad96.github.io/Reading-notes/read2) |	 
+|6| [README](https://anasahmad96.github.io/Reading-notes/)|
 
   ----------------
   @ Anas Oudat
