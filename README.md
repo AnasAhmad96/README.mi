@@ -6,11 +6,11 @@
 
   Name  | Link
   ------------- | -------------
-  (GrowthMindes)	  | [https://anasahmad96.github.io/Reading-notes/GrowthMindest]
-(lab01a) |	[https://anasahmad96.github.io/Reading-notes/lab01a] 
-(lab01b)	  | [https://anasahmad96.github.io/Reading-notes/lab01b]
- (Read1) | [https://anasahmad96.github.io/Reading-notes/Read1]
-(read2) |	[https://anasahmad96.github.io/Reading-notes/read2] 
-(README)	  | [https://anasahmad96.github.io/Reading-notes/README]
+  [GrowthMindes]	  | (https://anasahmad96.github.io/Reading-notes/GrowthMindest)
+[lab01a] |	(https://anasahmad96.github.io/Reading-notes/lab01a) 
+[lab01b]	  | (https://anasahmad96.github.io/Reading-notes/lab01b)
+ [Read1] | (https://anasahmad96.github.io/Reading-notes/Read1)
+[read2] |	(https://anasahmad96.github.io/Reading-notes/read2) 
+[README]	  | (https://anasahmad96.github.io/Reading-notes/README)
   ----------------
   @ Anas Oudat
