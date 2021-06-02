@@ -1,13 +1,21 @@
-# **growth mindset** 
-### Growth Mindset: “In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.”
-##### 3 reminders to yourself of how to keep yourself in a growth mindset:
-1. ######  Dont give up 
-1. ######  Try all the time
-1. ######  Hard work
-*Hi, my name is Anas, I am 25 years old. im studied computer science at Al-Balqa Applied University. I graduated two years ago. I have little experience in programming and I want to develop myself in the world of programming and I always look forward to gain enough skill to become a successful employee, thanks.*
+  ----------------
+  
+#Lab02 Assignment
 
-![Dont Give Up](https://images.squarespace-cdn.com/content/v1/5db9b388b2bae4336aead0fc/1580311277373-Z7II48YNV1U8T8C4PWYI/ke17ZwdGBToddI8pDm48kLK7LetJKZq4OeLEsWcwath7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTm8gdG5xRTtrVVyLXkddLwctreAwQBdK_w1E09kKTf11JyiVbSua9ITaLOdtButwAs/Dont-give-up.jpg?format=750w)
+**Hi, my name is Anas, I am 25 years old. im studied computer science at Al-Balqa Applied University. I graduated two years ago. I have little experience in programming and I want to develop myself in the world of programming and I always look forward to gain enough skill to become a successful employee, thanks.**
 
-~~Give UP~~
+  ----------------
 
-@ Anas Oudat
+  ### table of content
+
+Number  | Link
+------------- | -------------
+|1| [GrowthMindest](https://anasahmad96.github.io/Reading-notes/GrowthMindest) |
+|2| [lab01a](https://anasahmad96.github.io/Reading-notes/lab01a) |
+|3| [lab01b](https://anasahmad96.github.io/Reading-notes/lab01b) |
+|4| [Read1](https://anasahmad96.github.io/Reading-notes/Read1) |
+|5| [read2](https://anasahmad96.github.io/Reading-notes/read2) |	 
+|6| [README](https://anasahmad96.github.io/Reading-notes/)|
+
+  ----------------
+  @ Anas Oudat
