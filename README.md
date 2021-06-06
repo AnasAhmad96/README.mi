@@ -17,7 +17,8 @@ Number  | Link
 |6| [read4](https://anasahmad96.github.io/Reading-notes/read4) |
 |7| [read5](https://anasahmad96.github.io/Reading-notes/read5)|
 |8| [read6](https://anasahmad96.github.io/Reading-notes/read6)
-|9| [README](https://anasahmad96.github.io/Reading-notes/)|
+|9| [read7](https://anasahmad96.github.io/Reading-notes/read7)|
+|10| [README](https://anasahmad96.github.io/Reading-notes/)|
 
 
   ----------------
