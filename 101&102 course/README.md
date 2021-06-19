@@ -1,4 +1,4 @@
-#Lab02 Assignment
+# Lab02 Assignment
 
 **Hi, my name is Anas, I am 25 years old. im studied computer science at Al-Balqa Applied University. I graduated two years ago. I have little experience in programming and I want to develop myself in the world of programming and I always look forward to gain enough skill to become a successful employee, thanks.**
 
@@ -17,7 +17,8 @@ Number  | Link
 |6| [read4](https://anasahmad96.github.io/Reading-notes/read4) |
 |7| [read5](https://anasahmad96.github.io/Reading-notes/read5)|
 |8| [read6](https://anasahmad96.github.io/Reading-notes/read6)
-|9| [README](https://anasahmad96.github.io/Reading-notes/)|
+|9| [read7](https://anasahmad96.github.io/Reading-notes/read7)|
+|10| [README](https://anasahmad96.github.io/Reading-notes/)|
 
 
   ----------------
