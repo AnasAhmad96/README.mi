@@ -3,6 +3,8 @@
 ## - 2 - Functions
 ## - 3 - MDN Control Flow
 ## - 4 - Functions(demo)
+## - 5 - Operators(demo)
+
   ----------------
 ### Expressions and Operators
 JavaScript's expressions and operators, including assignment, comparison, arithmetic, bitwise, logical,string, ternary and more.
